@@ -2,7 +2,7 @@ A LabVIEW-based monitoring and data-logging system for electronic component test
 
 > Typical use cases: device characterization, long-duration stress tests, power-cycling related electrical tracking, and multi-DUT screening where repeatable, unattended measurement is required.
 
-![UI Screenshot](docs/screenshots/ui.png)
+![UI Screenshot](docs/screenshots.png)
 
 ------
 
